@@ -1,0 +1,35 @@
+
+.card{
+    box-shadow: 0p 0p 10px  black  inset;
+    border-radius: 10px;
+    width: 250px;
+    height: 400px;
+    background-color:white;
+    margin: auto;
+}
+.sp{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    width:90%;
+    height: 75%;
+    background-color: #1077de;
+    color: white;
+    margin: auto;
+    margin-top: 13px;
+}
+span{
+    margin: auto;
+    font-size: 70px;
+}
+h4{
+    text-align: center;
+    border: 1px solid red;
+   
+}
+p{
+    text-align: center;
+    margin-bottom: 30px;
+    border: 1px solid red;
+}
