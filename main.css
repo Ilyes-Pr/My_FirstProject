@@ -1,4 +1,6 @@
-
+body{
+    background-color: bisque;
+}
 .card{
     box-shadow: 0p 0p 10px  black  inset;
     border-radius: 10px;
